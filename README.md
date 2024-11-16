@@ -60,3 +60,10 @@ python app.py
 
 
 https://github.com/user-attachments/assets/28fcdfda-56d9-4731-aa15-65e52ee3747f
+
+
+https://github.com/user-attachments/assets/8af3598c-4095-4c21-ae26-fb819cdf4e42
+
+
+
+
